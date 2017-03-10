@@ -1,3 +1,5 @@
 # face_recognition
 
-Please Read the faces.pdf Part 9 for instructions how to run this project
+This is the project 1 I completed for Machine Learning and Data Mining course.
+
+The instructions and questions are in the "Project 1 Instructions. pdf"
