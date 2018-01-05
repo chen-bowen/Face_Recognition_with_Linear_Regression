@@ -1,5 +1,5 @@
 # face_recognition
 
-This is the project #1 I completed for Machine Learning and Data Mining course.
+## Abstract 
 
-The instructions and questions are in the "Project 1 Instructions. pdf"
+This project is the first project completed for Machine Learning and Data Mining course during my senior year at the University of Toronto.
