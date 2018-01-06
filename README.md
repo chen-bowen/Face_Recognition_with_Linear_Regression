@@ -10,4 +10,4 @@ I would like to thank my collaborator, Yuan Yao, for his strong dedication and i
 
 ## Problems 
 
-The specific instructions of this project could be found in the [instructions](instructions.pdf) file in this repository
+The specific instructions of this project could be found in the [instructions](./instructions.pdf) file in this repository
